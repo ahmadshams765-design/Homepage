@@ -97,7 +97,7 @@ body {
     border: none;
     outline: none;
     border-radius: 40px;
-    box-shadow: 0 0 10px black;
+    box-shadow: rgba(0, 0, 0, .3) 0px 4px 12px;
     cursor: pointer;
     font-size: 16px;
     color: black;
@@ -164,3 +164,4 @@ body {
 .register p a:hover {
     text-decoration: underline;
 }
+
